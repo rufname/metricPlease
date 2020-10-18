@@ -1,5 +1,5 @@
 # metricPlease
-###A bookmarklet that turns 100 yards into 91.4 m
+### A bookmarklet that turns 100 yards into 91.4 m
 
 Just add this as a bookmark to your browser:
 
