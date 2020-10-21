@@ -9,4 +9,4 @@ javascript: (function() {function bR(a,b,c,d){return function(i){let f=i;let g;w
 
 Or use the file `metricPleaseBookmarklet.js`
 
-It also works for **feet**, **inches**, **miles** and **degrees Fahrenheit** or **ft.**, **in.** and **mi.**
+It also works for **feet**, **inches**, **miles** and **degrees Fahrenheit** or **ft.**, **in.** and **mi.**!
